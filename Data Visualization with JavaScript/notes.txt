@@ -1,0 +1,9 @@
+https://github.com/HumbleSoftware/Flotr2
+http://phenxdesign.net/projects/flotr/playground/index.html
+
+http://www.sitepoint.com/11-best-jquery-charting-libraries/
+http://www.learningjquery.com/2015/03/15-top-jquery-chart-plugins-for-developers
+
+http://www.learningjquery.com/2015/03/15-latest-jquery-plugins-for-web-designers
+
+

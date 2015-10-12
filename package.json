@@ -1,0 +1,20 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ivangeorgiev@github.com/ivangeorgiev/playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivangeorgiev/playground/issues"
+  },
+  "homepage": "https://github.com/ivangeorgiev/playground#readme",
+  "dependencies": {}
+}

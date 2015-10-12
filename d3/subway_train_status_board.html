@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script src="/js/d3/d3.js"></script>
+<script>
+function draw(data) {
+"use strict";
+    d3.select("body")
+        .append("ul")
+        .selectAll("li")
+        .data(data)
+        .enter()
+        .append("li")
+        .text(function(d) {
+            return d.name + ": " + d.status;
+        });
+}
+</script>
+</head>
+<body>
+<script>
+    d3.json("getting_started_with_d3/visualisations/data/service_status.json", draw);
+</script>
+</body></html>
